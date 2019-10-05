@@ -1,0 +1,26 @@
+body {
+    background: whitesmoke
+}
+
+
+h1 {
+    color:white;
+    background:teal;
+    font-size: 24px;
+}
+ a{
+    color: grey;
+}
+
+h2 {color: teal;
+    border-bottom-style: solid;
+    border-bottom-color: grey;
+    font-size: 24px;
+}
+
+
+p {
+    color: teal;
+    font-size: 10;
+    
+}
